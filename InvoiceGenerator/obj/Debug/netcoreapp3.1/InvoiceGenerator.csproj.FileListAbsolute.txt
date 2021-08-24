@@ -1,0 +1,14 @@
+N:\k\Real Intern\Belajar\1. .NET\2FundamentalCSharp2\InvoiceGenerator\InvoiceGenerator\bin\Debug\netcoreapp3.1\InvoiceGenerator.exe
+N:\k\Real Intern\Belajar\1. .NET\2FundamentalCSharp2\InvoiceGenerator\InvoiceGenerator\bin\Debug\netcoreapp3.1\InvoiceGenerator.deps.json
+N:\k\Real Intern\Belajar\1. .NET\2FundamentalCSharp2\InvoiceGenerator\InvoiceGenerator\bin\Debug\netcoreapp3.1\InvoiceGenerator.runtimeconfig.json
+N:\k\Real Intern\Belajar\1. .NET\2FundamentalCSharp2\InvoiceGenerator\InvoiceGenerator\bin\Debug\netcoreapp3.1\InvoiceGenerator.runtimeconfig.dev.json
+N:\k\Real Intern\Belajar\1. .NET\2FundamentalCSharp2\InvoiceGenerator\InvoiceGenerator\bin\Debug\netcoreapp3.1\InvoiceGenerator.dll
+N:\k\Real Intern\Belajar\1. .NET\2FundamentalCSharp2\InvoiceGenerator\InvoiceGenerator\bin\Debug\netcoreapp3.1\InvoiceGenerator.pdb
+N:\k\Real Intern\Belajar\1. .NET\2FundamentalCSharp2\InvoiceGenerator\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.csproj.AssemblyReference.cache
+N:\k\Real Intern\Belajar\1. .NET\2FundamentalCSharp2\InvoiceGenerator\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+N:\k\Real Intern\Belajar\1. .NET\2FundamentalCSharp2\InvoiceGenerator\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.AssemblyInfoInputs.cache
+N:\k\Real Intern\Belajar\1. .NET\2FundamentalCSharp2\InvoiceGenerator\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.AssemblyInfo.cs
+N:\k\Real Intern\Belajar\1. .NET\2FundamentalCSharp2\InvoiceGenerator\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.csproj.CoreCompileInputs.cache
+N:\k\Real Intern\Belajar\1. .NET\2FundamentalCSharp2\InvoiceGenerator\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.dll
+N:\k\Real Intern\Belajar\1. .NET\2FundamentalCSharp2\InvoiceGenerator\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.pdb
+N:\k\Real Intern\Belajar\1. .NET\2FundamentalCSharp2\InvoiceGenerator\InvoiceGenerator\obj\Debug\netcoreapp3.1\InvoiceGenerator.genruntimeconfig.cache
